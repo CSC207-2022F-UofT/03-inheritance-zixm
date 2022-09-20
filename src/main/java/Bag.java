@@ -49,7 +49,7 @@ public abstract class Bag {
     public String getColor() {
         return color;
     }
-    public int getNumberofContents() {
+    public int getNumberOfContents() {
         return numberOfContents;
     }
     public int getCapacity() {
